@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="(https://user-images.githubusercontent.com/35244105/216159760-a14e5e7d-a89a-474b-90f6-30034ffc2ab8.jpg)" alt="Ricardo Salvatierra" /></a>
+    <img src="https://user-images.githubusercontent.com/35244105/216159760-a14e5e7d-a89a-474b-90f6-30034ffc2ab8.jpg" alt="Ricardo Salvatierra" /></a>
 </p>
 
 <p align="center">
